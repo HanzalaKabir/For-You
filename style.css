@@ -1,0 +1,23 @@
+body {
+  margin-top: 100px;
+  background-image: url("background.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  font-family: "Mynerve", cursive;
+}
+
+#angel {
+  color: rgb(255, 61, 47);
+}
+.h3 {
+  color: rgb(61, 253, 2);
+}
+#irritate {
+  color: floralwhite;
+}
+#love {
+  color: aliceblue;
+  border: 2px solid white;
+}
